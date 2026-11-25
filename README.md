@@ -93,6 +93,9 @@ arduino-cli compile --upload --fqbn esp32:esp32:esp32:PartitionScheme=huge_app -
 - **Replay:** `/api/rf/replay` re-transmits the captured signal.
 - **Info & Clear:** `/api/rf/info` and `/api/rf/clear` for capture management.
 
+- pcb and kit:
+https://ebay.io/m/UlA6Du
+https://ebay.io/m/aPU2MF
 ---
 
 ## Complete API Reference
