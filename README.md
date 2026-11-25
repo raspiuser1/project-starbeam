@@ -95,9 +95,8 @@ arduino-cli compile --upload --fqbn esp32:esp32:esp32:PartitionScheme=huge_app -
 ---
 
 ### 8. PCB / DIY kit:
-https://ebay.io/m/UlA6Du
-https://ebay.io/m/aPU2MF
----
+- https://ebay.io/m/UlA6Du
+- https://ebay.io/m/aPU2MF
 
 ## Complete API Reference
 
