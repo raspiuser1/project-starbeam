@@ -92,8 +92,9 @@ arduino-cli compile --upload --fqbn esp32:esp32:esp32:PartitionScheme=huge_app -
 - **Raw Capture:** `/api/rf/capture` captures raw edge timings from a 433 MHz signal (remote controls, sensors, etc.).
 - **Replay:** `/api/rf/replay` re-transmits the captured signal.
 - **Info & Clear:** `/api/rf/info` and `/api/rf/clear` for capture management.
+---
 
-- pcb and kit:
+### 8. PCB / DIY kit:
 https://ebay.io/m/UlA6Du
 https://ebay.io/m/aPU2MF
 ---
